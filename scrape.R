@@ -1,3 +1,5 @@
+## Código da postagem https://medium.com/@ghcarvalho/presidenci%C3%A1veis-no-twitter-5fa2a7ec144b
+
 require(rvest)
 require(stringr)
 require(dplyr)
